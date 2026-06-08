@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+
+# User-specific Visual Studio files
+*.user
+*.suo
+.vs/
+
+# Rider / JetBrains
+.idea/
+
+# NuGet
+packages/
+*.nupkg
+
+# OS junk
+Thumbs.db
+.DS_Store
