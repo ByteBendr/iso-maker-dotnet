@@ -4,7 +4,6 @@ A simple, clean Windows desktop app for packing any folder into an ISO image —
 
 Built with **C# / WinForms** on **.NET 8**.
 
-![ISO Maker Screenshot](screenshot.png)
 
 ---
 
